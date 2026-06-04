@@ -27,7 +27,7 @@ st.set_page_config(
 
 @st.cache_data
 def load_startup_data():
-    df = load_data("startup_data.csv")
+    df = load_data("data/startup_data.csv")
     df = clean_data(df)
     return df
 
