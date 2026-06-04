@@ -1,0 +1,47 @@
+[theme]
+
+# Primary accent color
+primaryColor = "#4F46E5"
+
+# Main background color
+backgroundColor = "#111827"
+
+# Sidebar and widget background
+secondaryBackgroundColor = "#1F2937"
+
+# Text color
+textColor = "#F9FAFB"
+
+# Font options:
+# "sans serif", "serif", "monospace"
+font = "sans serif"
+
+[server]
+
+headless = true
+
+enableCORS = false
+
+enableXsrfProtection = false
+
+maxUploadSize = 200
+
+[browser]
+
+gatherUsageStats = false
+
+[client]
+
+toolbarMode = "minimal"
+
+[runner]
+
+magicEnabled = true
+
+fastReruns = true
+
+[logger]
+
+level = "info"
+
+messageFormat = "%(asctime)s %(message)s"
