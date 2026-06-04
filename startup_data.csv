@@ -1,7 +1,0 @@
-Startup Name,Industry,Funding Rounds,Funding Amount (M USD),Valuation (M USD),Revenue (M USD),Employees,Market Share (%),Profitable,Year Founded,Region,Exit Status
-Startup_1,IoT,1,101.09,844.75,67.87,1468,5.20,0,2006,Europe,Private
-Startup_2,EdTech,1,247.62,3310.83,75.65,3280,8.10,1,2003,South America,Private
-Startup_3,EdTech,1,109.24,1059.37,84.21,4933,2.61,1,1995,South America,Private
-Startup_4,Gaming,5,10.75,101.90,47.08,1059,2.53,0,2003,South America,Private
-Startup_5,IoT,4,249.28,850.11,50.25,1905,4.09,0,1997,Europe,Acquired
-...
